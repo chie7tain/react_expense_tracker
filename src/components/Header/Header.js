@@ -1,3 +1,7 @@
-import React from "react"
+import React from "react";
 
-export const Header = () => (<div>Header</div>)
+export const Header = () => (
+  <div>
+    <h1>Expense Tracker</h1>
+  </div>
+);
